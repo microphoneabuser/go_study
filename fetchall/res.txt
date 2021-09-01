@@ -1,0 +1,3 @@
+Get https://www.google.com: dial tcp: lookup www.google.com on 172.25.0.1:53: read udp 172.25.15.92:37280->172.25.0.1:53: i/o timeout
+Get https://golang.org: dial tcp: lookup golang.org on 172.25.0.1:53: read udp 172.25.15.92:53428->172.25.0.1:53: i/o timeout
+10.04s elapsed
