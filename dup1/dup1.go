@@ -1,4 +1,4 @@
-package dup1
+package main
 
 import (
 	"bufio"
@@ -22,8 +22,4 @@ func main() {
 			fmt.Printf("%d\t%s\n", n, line)
 		}
 	}
-}
-
-func countLines(f *os.File, counts map[string]int) {
-
 }
